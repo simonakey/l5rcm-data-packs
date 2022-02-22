@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<L5RCM>
+  <Merit name="Well-Connected" id="well_connected" type="social" page="97">
+    <Rank id="1" value="3">
+      <Exception tag="courtier" value="2" />
+    </Rank>
+    <Rank id="2" value="6">
+      <Exception tag="courtier" value="5" />
+    </Rank>
+    <Rank id="3" value="9">
+      <Exception tag="courtier" value="8" />
+    </Rank>
+    <Rank id="4" value="12">
+      <Exception tag="courtier" value="11" />
+    </Rank>
+    <Rank id="5" value="15">
+      <Exception tag="courtier" value="14" />
+    </Rank>
+    <Rank id="6" value="18">
+      <Exception tag="courtier" value="17" />
+    </Rank>
+    <Description>Choose one court when you purchase this Advantage. One time each session per level of the Advantage, you may roll Courtier / Awareness at TN 20. If successful, you gain the benefit of one minor favor from someone else at court. This favor should not be something that inconveniences the benefactor, and it will only be a small piece of information (e.g. “the daimyo intends to go hunting tomorrow”) or a simple bit of assistance (“I assigned you to a later guard shift”). The favor, however, will always be useful to some task you are currently pursuing. Courtiers may purchase this Advantage for one point less.</Description>
+  </Merit>
+  <Merit name="Student of Shourido" id="student_of_shourido" type="mental" page="96">
+    <Rank id="1" value="9">
+      <Exception tag="spider" value="6" />
+    </Rank>
+    <Description>Truly dedicated followers of the Way of Victory are able to prevail despite their rejection of Bushido. When rolling to resist Temptation, Intimidation, or Fear, you may choose to add +5 to your roll instead of adding your Honor Rank to the roll. If the optional Honor Roll rule (page 92 of the L5R 4th Edition Core rulebook) is being used, you may roll 5 dice instead of rolling dice equal to your Honor Rank.</Description>
+  </Merit>
+</L5RCM>  

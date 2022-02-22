@@ -1,0 +1,28 @@
+<L5RCM>
+  <School clanid="scorpion" name="Scorpion Maskmaker" id="scorpion_maskmaker" page="97">
+    <Tags>
+      <Tag>shugenja</Tag>
+      <Tag>scorpion_shugenja</Tag>
+      <Tag>alternate</Tag>
+      <Tag>scorpion_alternate</Tag>
+    </Tags>
+    <Techs>
+      <Tech name="Conceal the Eyes" rank="2" id="scorpion_conceal_the_eyes">
+        <Description>
+          The artisans who craft masks for Scorpion samurai know how to direct attention away from the wearer’s face (and any social cues it might reveal) to the distracting mask itself. Once every three months, you may craft a mask which is especially effective at concealing thoughts and emotions; this mask matches the abilities of the Inheritance Advantage with the Sincerity Skill, and creating it requires two Raises on your Craft: Maskmaking roll. Also, your experience at using masks to conceal emotions teaches you how to read others’ intentions without relying on facial expressions. You gain a +2k0 bonus on any Social Skill roll to detect falsehood or concealed intentions in others.
+        </Description>
+      </Tech>
+    </Techs>
+    <Skills/>
+    <Spells/>
+    <Requirements>
+      <Requirement field="craft_maskmaking" type="skill" min="5">Craft: Maskmaking 5</Requirement>
+      <Requirement field="sincerity" trg="Deceit" type="skill" min="1">Sincerity (Deceit)</Requirement>
+      <RequirementOption text="Bayushi Courtier 2, Soshi Shugenja 2, Yogo Shugenja 2">
+        <Requirement field="scorpion_shallow_waters" type="rule"/>
+        <Requirement field="scorpion_soshi_shugenja_school" type="school" min="1">Soshi Shugenja School, Rank 2</Requirement>
+        <Requirement field="scorpion_yogo_shugenja_school" type="school" min="1">Yogo Shugenja School, Rank 2</Requirement>
+      </RequirementOption>
+    </Requirements>
+  </School>
+</L5RCM>
