@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<L5RCM>
+  <KihoDef mastery="5" element="fire" type="spiritual" id="the_gurus_thousand_fires" name="The Guru's Thousand Fires">
+    <Description>
+Taught to the Tanuki Clan since their transportation to the colonies by 'Yogi Gurus', this kiho allows a Tanuki samurai to turn his most reliable companion, sake, into a most potent weapon. To activate this kiho, you must spend a Void Point and then drink some sake as Simple Action. For a number of rounds equal to your Stamina Rank, you are considered to be mechanically benefiting from the Breath of the Fire Dragon spell.
+    </Description>
+    <Tags/>
+  </KihoDef>
+</L5RCM>

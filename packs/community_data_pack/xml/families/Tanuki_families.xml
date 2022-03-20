@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<L5RCM>
+  <Family clanid="tanuki" name="Tanuki" id="tanuki_tanuki">
+    <Trait>stamina</Trait>
+  </Family>
+</L5RCM>

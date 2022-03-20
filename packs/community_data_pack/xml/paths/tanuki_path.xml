@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<L5RCM>
+  <School clanid="tanuki" name="Blue Tanuki's Brand Ambassador" id="tanuki_blue_tanukis_brand_ambassador_path">
+    <Tags>
+      <Tag>tanuki</Tag>
+      <Tag>courtier</Tag>
+      <Tag>tanuki_monk</Tag>
+      <Tag>alternate</Tag>
+    </Tags>
+    <Techs>
+      <Tech name="One More for the Road" rank="0" id="one_more_for_the_road">
+        <Description>
+You may use the Temptation skill to entice someone else into entering a drinking contest. While doing so, Temptation is not considered a Low Skill for you. This is a contested roll of your Awareness / Temptation against their Awareness / Etiquette (Courtesy). By spending an Void point, you may immediately roll the same against another bystander, who will join the drinking contest as well, to a maximum number of participants equal to your School rank +1 (not including yourself). All participants who fail to resist must have as many drinks as you do, or a number of drinks equal to your Void Ring, whichever is higher. Those who beat your contested roll may chose to decline, but if there are witnesses, they lose 2 points of Glory.
+Needless to say that if this happens in your establishment, the victims need to pay for their drinks (business is business). Failing to do so may incur an Obligation to you, at the GM's discretion.        </Description>
+      </Tech>
+    </Techs>
+    <Skills/>
+    <Spells/>
+    <Requirements>
+      <RequirementOption text="Any Tanuki school rank from 2 to 4 of your choice. (Ronin Sake lovers have been known to swear fealty into the Tanuki clan. Those may access this Technique provided that they find a suitable teacher who is sober enough to teach them.)">
+        <Requirement field="*tanuki" type="school" min="1" max="3"/>
+      </RequirementOption>
+      <Requirement field="craft_brewing" type="skill" min="3">Craft: Brewing 3</Requirement>
+      <Requirement field="temptation" type="skill" min="3">Temptation: 3</Requirement>
+    </Requirements>
+  </School>
+</L5RCM>

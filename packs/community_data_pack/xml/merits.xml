@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<L5RCM>
+  <Merit name="Able Drinker" id="able_drinker" type="physical">
+    <Rank id="1" value="1">
+    </Rank>
+    <Description>
+You can really put the liquor away. This could be due to naturally high constitution, or maybe just a lot of experience. Add 2k1 to the total of Earth Rolls to resist inebriation. Tanuki, Crab and Mantis characters add a 3k1 to the total of Earth Rolls to resist inebriation.
+    </Description>
+  </Merit>
+</L5RCM>  
