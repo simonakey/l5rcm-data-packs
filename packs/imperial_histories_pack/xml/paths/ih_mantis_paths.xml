@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<L5RCM>
+  <School clanid="mantis" name="Acolyte of Thunder" id="mantis_acolyte_of_thunder">
+    <Tags>
+      <Tag>shugenja</Tag>
+      <Tag>mantis_shugenja</Tag>
+      <Tag>alternate</Tag>
+      <Tag>mantis_alternate</Tag>
+    </Tags>
+    <Techs>
+      <Tech name="Thunder’s Call" rank="4" id="mantis_thunders_call"><Description>The Acolytes of Thunder can call on the power of the great Thunder Dragon to smite their enemies. You may cast the spell Fury of Osano-Wo as a Simple Action by sacrificing a spell slot in any Element. Your Raises for damage on that spell award +1k1 per Raise instead of +1k0.</Description></Tech>
+    </Techs>
+    <Skills />
+    <Spells />
+    <Requirements>
+      <Requirement field="fire" min="3" type="ring">Fire Ring: 3</Requirement>
+      <Requirement field="void" min="4" type="ring">Void Ring: 4</Requirement>
+      <Requirement field="mantis_ob_yoritomo_shugenja_school" min="4" type="school">Replaces Yoritomo Shugenja 4</Requirement>
+    </Requirements>
+  </School>
+</L5RCM>

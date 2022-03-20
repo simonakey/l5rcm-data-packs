@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<L5RCM>
+  <Merit type="social" id="imperial_scribe" name="Imperial Scribe">
+    <Description>You have been trained as a scribe in the Imperial City, which is both a recognition of your considerable skill at calligraphy and means of ensuring that you remain among the most respected calligraphers hereafter. You gain a bonus of +1k0 on all Social skill Rolls made against shugenja and artisans, who have a great appreciation for your skill and position. Additionally, you gain a Free Raise on Calligraphy Skill Rolls.</Description>
+    <Rank id="1" value="4">
+    </Rank>
+    <Requirements>
+      <Requirement field="status" min="2">Status: 2</Requirement>
+      <Requirement field="calligraphy" type="skill" min="4">Calligraphy: 4</Requirement>
+    </Requirements>
+  </Merit>
+</L5RCM>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<L5RCM>
+  <School clanid="scorpion" name="Scorpion Saboteur" id="scorpion_scorpion_saboteur">
+    <Tags>
+      <Tag>ninja</Tag>
+      <Tag>scorpion_ninja</Tag>
+      <Tag>advanced</Tag>
+      <Tag>scorpion_advanced</Tag>
+    </Tags>
+    <Skills/>
+    <Spells/>
+    <Techs>
+      <Tech name="Follow the Pincers" rank="1" id="scorpion_follow_the_pincers">
+        <Description>The saboteur are trained to an extreme degree of focus and alertness, assuring they can slip through enemy lines and silence anyone who spots them. You gain +1k1 bonus to all Stealth rolls and suffer no Initiative penalties for being surprised, Dazed, or Fatigued.</Description>
+      </Tech>
+      <Tech name="No Mistakes" rank="2" id="scopion_no_mistakes">
+        <Description>The saboteur specializes in using demolitions to destroy vital targets such as walls, bridges, supply dumps, and castles. When you spend a Void Point on a roll with Craft: Explosives, you gain a +2k2 bonus instead of the normal +1k1. Due to your extensive training with gaijin pepper, you suffer no ill effects from low rolls with Craft: Explosives and if the optional "fizzle" rule is in effect you are immune to it as well.</Description>
+      </Tech>
+      <Tech name="Seeking Weakness" rank="3" id="scorpion_seeking_weakness">
+        <Description>The saboteurs are trained to strike at their opponents' weak points with lethal and shocking speed. When fighting with a Small weapon (melee or ranged) you may make a single attack as a Free Action each Round in addition to any other Simple Action or Complex Action attacks you might make. Also, when fighting with a Small weapon (melee or ranged), you may ignore the effects of your opponent's armor on his Armor TN and Reduction.</Description>
+      </Tech>
+    </Techs>
+    <Requirements>
+      <Requirement field="fire" type="ring" min="4">Fire Ring: 4</Requirement>
+      <Requirement field="reflexes" type="trait" min="4">Reflexes: 4</Requirement>
+      <Requirement field="craft_explosives" type="skill" min="3">Craft: Explosives 3</Requirement>
+      <Requirement field="stealth" type="skill" min="5">Stealth 5</Requirement>
+      <Requirement field="knives" type="skill" min="4">Knives 4</Requirement>
+      <Requirement field="ninjutsu" type="skill" min="4">Ninjutsu 4</Requirement>
+      <Requirement field="scorpion_ninja" type="tag">Must be trained in one the Scorpion schools with the [Ninja] tag.</Requirement>
+    </Requirements>
+  </School>
+</L5RCM>

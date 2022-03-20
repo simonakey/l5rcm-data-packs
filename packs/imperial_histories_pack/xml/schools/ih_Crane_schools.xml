@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<L5RCM>
+  <School clanid="crane" name="Daidoji Harriers " id="crane_daidoji_harriers">
+      <Tags>
+      <Tag>bushi</Tag>
+      <Tag>crane_bushi</Tag>
+      <Tag>advanced</Tag>
+      <Tag>crane_advanced</Tag>
+    </Tags>
+    <Skills/>
+    <Spells/>
+    <Techs>
+      <Tech name="Move Like Shadows" rank="1" id="crnae_move_like_shadows">
+        <Description>The Harriers are taught to sacrifice their own Honor for the sake of the greater good of the Crane Clan (as they perceive it). They train to blend into the shadows and to defeat their foes with traps and ambushes. You lose only half the normal amount of Honor (rounded down) for any dishonorable actions taken on behalf of the Crane Clan. You gain a +1k1 bonus to the DR of any rural traps you create (this stacks, with the Daidoji Scout techniques, if applicable).</Description>
+      </Tech>
+      <Tech name="Iron Feather" rank="2" id="crane_iron_feather">
+        <Description>The lightning reflexes of a Harrier allows him to dodge his opponent's attacks easily. When wearing light armor, ashigaru armor, or no armor, you may add your Stealth Skill Rank to your Armor TN.</Description>
+      </Tech>
+      <Tech name="Unforgiving Steel" rank="3" id="crane_unforgiving_steel">
+        <Description>The Harrier is taught to disable his foes with a single deadly strike. If you successfully attack a surprised or unaware opponent, or if an opponent takes damage fro a rural trap you created, he is Dazed in addition to any other effects of your attack. He may not attempt to recover from the Daze until after the next Reactions stage, and the TN to recover from the Daze is increased by +5.</Description>
+      </Tech>
+    </Techs>
+    <Requirements>
+      <Requirement field="air" type="ring" min="4">Air Ring: 4</Requirement>
+      <Requirement field="agility" type="trait" min="4">Agility: 4</Requirement>
+      <Requirement field="craft_explosives" type="skill" min="3">Craft: Explosives 3</Requirement>
+      <Requirement field="stealth" type="skill" min="5">Stealth 5</Requirement>
+      <Requirement field="knives" type="skill" min="4">Knives 4</Requirement>
+      <Requirement field="hunting" trg="Traps" type="skill" min="3">Hunting (Traps) 3</Requirement>
+      <Requirement field="crane_daidoji" type="tag">Must be a Daidoji.</Requirement>
+      <Requirement field="rpg" type="more">Must be recruited for membership in the Harriers.</Requirement>
+    </Requirements>
+  </School>
+</L5RCM>
